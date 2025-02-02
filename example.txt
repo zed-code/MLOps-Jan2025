@@ -1,1 +1,3 @@
 Entire content deleted and added new line
+Line1: Initial line
+Line2: Modified the file for +1 branch
